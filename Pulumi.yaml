@@ -1,0 +1,3 @@
+name: pulumi-sqs-dlq
+runtime: nodejs
+description: A minimal AWS JavaScript Pulumi program
